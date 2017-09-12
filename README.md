@@ -5,6 +5,6 @@ Low resolution screenshots can be found in '/previews'.
 
 ## Usage
 Run '/Debug/OrbitalSimV2.exe' to launch.
-'WASD' or arrow keys to move rocket, 'R' and 'F' keys to zoom in and out.
+'WASD' or arrow keys to move the rocket, 'R' and 'F' keys to zoom in and out.
 
 Requires SFML-2.3.1 to compile.
